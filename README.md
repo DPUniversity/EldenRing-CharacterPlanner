@@ -40,6 +40,7 @@ The armor and talisman screens have the same layouts, but weapons give you more 
 
 This is what a fully filled out inventory looks like, wich some attribute additions:
 ![chest](https://i.imgur.com/Amlm4jG.png)
+
 As equipment and attributes are changed, the bottom status menu is updated. The magic enhanced version of the claymore was selected, so there is physical and magic damage. Equip load remains green because this individual has enough endurance to not become overencumbered. The effects of the talismans are also displayed in the status.
 
 ## Potential Future Features
