@@ -36,12 +36,14 @@ From here, you can choose from one of the starting classes, which will update yo
 Any of the equipment slots near the center act as buttons and can be pressed. When pressed, you will be taken to the corresponding screen depending on what type of equipment you chose. After selecting weapon, you'll be taken to the weapons screen, to choose from. The weapon and chest slot screens are shown below:
 
 ![weapons](https://i.imgur.com/jsqdwux.png) ![chest](https://i.imgur.com/kTvktrp.png)
+
 The armor and talisman screens have the same layouts, but weapons give you more options. Some weapons can only be 'Standard' and can't be infused with elements or Heavy, Keen or Quality. All grey buttons are physical-only enhancements, while fire lightning and magic are hybrid damage (at the cost of scaling). Once you select an armor piece, or a weapon enhancement, you will be taken back to the main screen and the slot will be filled.
 
-This is what a fully filled out inventory looks like, wich some attribute additions:
+This is what a fully filled out inventory looks like, with some attribute additions:
+
 ![chest](https://i.imgur.com/Amlm4jG.png)
 
-As equipment and attributes are changed, the bottom status menu is updated. The magic enhanced version of the claymore was selected, so there is physical and magic damage. Equip load remains green because this individual has enough endurance to not become overencumbered. The effects of the talismans are also displayed in the status.
+As equipment and attributes are changed, the bottom status section is updated. The magic enhanced version of the claymore was selected, so there is physical and magic damage value. Equip load remains green because this individual has enough endurance to not become overencumbered. The effects of the talismans are also displayed in the status section.
 
 ## Potential Future Features
 - There are only some of the weapons, armors, and talismans of the game added (enough to test variation). Most weapons have 7 enhance types, which means 7 objects, each with their own damage and scaling. Data files grow quickly for these game entities.
