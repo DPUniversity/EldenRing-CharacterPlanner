@@ -23,7 +23,7 @@ From here, you can scan the QR code provided in the terminal by expo. This will 
 
 Alternatively, you can create a build by following instructions [here.](https://docs.expo.dev/classic/building-standalone-apps/) and  following the CLI prompts provided by Expo.
 
-## Operation Instructions & Features
+## Operation Instructions and Features
 
 The primary screen is divided into three main sections: Attributes, Equipment, and Status
 
